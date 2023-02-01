@@ -1,4 +1,4 @@
-function Converter() {
+
     var valorEmDolar = 30;
     var cotacaoDolar = 5.07;
     var valorCripto = 117321.67;
@@ -24,5 +24,5 @@ function Converter() {
         tempoAnos.toFixed(2) +
         " anos na velocidade da luz."
     );
-    
-}
+
+
